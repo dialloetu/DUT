@@ -1,0 +1,600 @@
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 1 2 1
+
+      =====  DEBUT DU PROGRAMME ======      
+
+Total des pavages :
+1 avec 2 pieces
+(total de 1 pavages )
+
+      ==========================================         
+
+parmi lesquels on a les pavages reduits suivants :
+1 avec 2 pieces
+(total de 1 pavages reduits)
+
+      ==========================================         
+
+Donc un total de (1) pavages compacts
+--- Duree - 0.000881910324097 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 1 2 2
+
+      =====  DEBUT DU PROGRAMME ======      
+
+Total des pavages :
+1 avec 2 pieces
+(total de 1 pavages )
+
+      ==========================================         
+
+parmi lesquels on a les pavages reduits suivants :
+1 avec 2 pieces
+(total de 1 pavages reduits)
+
+      ==========================================         
+
+Donc un total de (1) pavages compacts
+
+      =====  dessin de pavages compactes ======      
+
+sol(0)=>  [((0, 0), (0, 1), (1, 0), (1, 1)), ((0, 1), (0, 2), (1, 1), (1, 2))]
+TypeError: Couldn't find foreign struct converter for 'cairo.Context'
+       =====================================       
+--- Duree - 17.7656519413 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 3 3 0
+
+      =====  DEBUT DU PROGRAMME ======      
+
+J ai trouve (64) pavages compacts
+--- Duree - 1.71313595772 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 3 3 1
+
+      =====  DEBUT DU PROGRAMME ======      
+
+Total des pavages :
+4 avec 2 pieces
+18 avec 3 pieces
+48 avec 4 pieces
+92 avec 5 pieces
+96 avec 6 pieces
+50 avec 7 pieces
+12 avec 8 pieces
+1 avec 9 pieces
+(total de 321 pavages )
+
+      ==========================================         
+
+parmi lesquels on a les pavages reduits suivants :
+12 avec 8 pieces
+1 avec 9 pieces
+64 avec 5 pieces
+92 avec 6 pieces
+50 avec 7 pieces
+(total de 219 pavages reduits)
+
+      ==========================================         
+
+Donc un total de (64) pavages compacts
+--- Duree - 1.78034710884 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 2 2 0
+
+      =====  DEBUT DU PROGRAMME ======      
+
+J ai trouve (4) pavages compacts
+--- Duree - 0.000848054885864 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter^[[A
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 2 2 1
+
+      =====  DEBUT DU PROGRAMME ======      
+
+Total des pavages :
+2 avec 2 pieces
+4 avec 3 pieces
+1 avec 4 pieces
+(total de 7 pavages )
+
+      ==========================================         
+
+parmi lesquels on a les pavages reduits suivants :
+4 avec 3 pieces
+1 avec 4 pieces
+(total de 5 pavages reduits)
+
+      ==========================================         
+
+Donc un total de (4) pavages compacts
+--- Duree - 0.00158905982971 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 1 2 0
+
+      =====  DEBUT DU PROGRAMME ======      
+
+J ai trouve (1) pavages compacts
+--- Duree - 0.000575065612793 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 2 1 0
+
+      =====  DEBUT DU PROGRAMME ======      
+
+J ai trouve (1) pavages compacts
+--- Duree - 0.000447034835815 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 1 2 1
+
+      =====  DEBUT DU PROGRAMME ======      
+
+Total des pavages :
+1 avec 2 pieces
+(total de 1 pavages )
+
+      ==========================================         
+
+parmi lesquels on a les pavages reduits suivants :
+1 avec 2 pieces
+(total de 1 pavages reduits)
+
+      ==========================================         
+
+Donc un total de (1) pavages compacts
+--- Duree - 0.000894784927368 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter^[[A^[[A
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 2 1 1
+
+      =====  DEBUT DU PROGRAMME ======      
+
+Total des pavages :
+1 avec 2 pieces
+(total de 1 pavages )
+
+      ==========================================         
+
+parmi lesquels on a les pavages reduits suivants :
+1 avec 2 pieces
+(total de 1 pavages reduits)
+
+      ==========================================         
+
+Donc un total de (1) pavages compacts
+--- Duree - 0.00140285491943 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter^[[A^[[A
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 1 3 0
+
+      =====  DEBUT DU PROGRAMME ======      
+
+J ai trouve (1) pavages compacts
+--- Duree - 0.00104379653931 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 3 1 0
+
+      =====  DEBUT DU PROGRAMME ======      
+
+J ai trouve (1) pavages compacts
+--- Duree - 0.000535011291504 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 3 2 0
+
+      =====  DEBUT DU PROGRAMME ======      
+
+J ai trouve (11) pavages compacts
+--- Duree - 0.0154559612274 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter^[[A
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 2 3 0
+
+      =====  DEBUT DU PROGRAMME ======      
+
+J ai trouve (11) pavages compacts
+--- Duree - 0.0131549835205 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter^[[A
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 2 3 1
+
+      =====  DEBUT DU PROGRAMME ======      
+
+Total des pavages :
+3 avec 2 pieces
+9 avec 3 pieces
+13 avec 4 pieces
+7 avec 5 pieces
+1 avec 6 pieces
+(total de 33 pavages )
+
+      ==========================================         
+
+parmi lesquels on a les pavages reduits suivants :
+11 avec 4 pieces
+7 avec 5 pieces
+1 avec 6 pieces
+(total de 19 pavages reduits)
+
+      ==========================================         
+
+Donc un total de (11) pavages compacts
+--- Duree - 0.0150020122528 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 3 2 1
+
+      =====  DEBUT DU PROGRAMME ======      
+
+Total des pavages :
+3 avec 2 pieces
+9 avec 3 pieces
+13 avec 4 pieces
+7 avec 5 pieces
+1 avec 6 pieces
+(total de 33 pavages )
+
+      ==========================================         
+
+parmi lesquels on a les pavages reduits suivants :
+11 avec 4 pieces
+7 avec 5 pieces
+1 avec 6 pieces
+(total de 19 pavages reduits)
+
+      ==========================================         
+
+Donc un total de (11) pavages compacts
+--- Duree - 0.0121839046478 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 2 4 0
+
+      =====  DEBUT DU PROGRAMME ======      
+
+J ai trouve (26) pavages compacts
+--- Duree - 0.282060861588 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 4 2 0
+
+      =====  DEBUT DU PROGRAMME ======      
+
+J ai trouve (26) pavages compacts
+--- Duree - 0.242599964142 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter^[[A
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 4 2 1
+
+      =====  DEBUT DU PROGRAMME ======      
+
+Total des pavages :
+4 avec 2 pieces
+15 avec 3 pieces
+37 avec 4 pieces
+47 avec 5 pieces
+33 avec 6 pieces
+10 avec 7 pieces
+1 avec 8 pieces
+(total de 147 pavages )
+
+      ==========================================         
+
+parmi lesquels on a les pavages reduits suivants :
+1 avec 8 pieces
+26 avec 5 pieces
+30 avec 6 pieces
+10 avec 7 pieces
+(total de 67 pavages reduits)
+
+      ==========================================         
+
+Donc un total de (26) pavages compacts
+--- Duree - 0.231959104538 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 2 4 1
+
+      =====  DEBUT DU PROGRAMME ======      
+
+Total des pavages :
+4 avec 2 pieces
+15 avec 3 pieces
+37 avec 4 pieces
+47 avec 5 pieces
+33 avec 6 pieces
+10 avec 7 pieces
+1 avec 8 pieces
+(total de 147 pavages )
+
+      ==========================================         
+
+parmi lesquels on a les pavages reduits suivants :
+1 avec 8 pieces
+26 avec 5 pieces
+30 avec 6 pieces
+10 avec 7 pieces
+(total de 67 pavages reduits)
+
+      ==========================================         
+
+Donc un total de (26) pavages compacts
+--- Duree - 0.251708030701 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter^[[A
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 2 5 0
+
+      =====  DEBUT DU PROGRAMME ======      
+
+J ai trouve (57) pavages compacts
+--- Duree - 6.59589791298 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 2 5 1
+
+      =====  DEBUT DU PROGRAMME ======      
+
+Total des pavages :
+5 avec 2 pieces
+22 avec 3 pieces
+74 avec 4 pieces
+147 avec 5 pieces
+183 avec 6 pieces
+142 avec 7 pieces
+62 avec 8 pieces
+13 avec 9 pieces
+1 avec 10 pieces
+(total de 649 pavages )
+
+      ==========================================         
+
+parmi lesquels on a les pavages reduits suivants :
+58 avec 8 pieces
+13 avec 9 pieces
+1 avec 10 pieces
+57 avec 6 pieces
+102 avec 7 pieces
+(total de 231 pavages reduits)
+
+      ==========================================         
+
+Donc un total de (57) pavages compacts
+--- Duree - 5.97136712074 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 5 2 1
+
+      =====  DEBUT DU PROGRAMME ======      
+
+Total des pavages :
+5 avec 2 pieces
+22 avec 3 pieces
+74 avec 4 pieces
+147 avec 5 pieces
+183 avec 6 pieces
+142 avec 7 pieces
+62 avec 8 pieces
+13 avec 9 pieces
+1 avec 10 pieces
+(total de 649 pavages )
+
+      ==========================================         
+
+parmi lesquels on a les pavages reduits suivants :
+58 avec 8 pieces
+13 avec 9 pieces
+1 avec 10 pieces
+57 avec 6 pieces
+102 avec 7 pieces
+(total de 231 pavages reduits)
+
+      ==========================================         
+
+Donc un total de (57) pavages compacts
+--- Duree - 5.44473695755 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 5 2 0
+
+      =====  DEBUT DU PROGRAMME ======      
+
+J ai trouve (57) pavages compacts
+--- Duree - 5.77189087868 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 2 6 0
+
+      =====  DEBUT DU PROGRAMME ======      
+
+J ai trouve (120) pavages compacts
+--- Duree - 326.573364019 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 6 2 0
+
+      =====  DEBUT DU PROGRAMME ======      
+
+J ai trouve (120) pavages compacts
+--- Duree - 301.499743223 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 6 2 1
+
+      =====  DEBUT DU PROGRAMME ======      
+
+Total des pavages :
+6 avec 2 pieces
+30 avec 3 pieces
+125 avec 4 pieces
+335 avec 5 pieces
+596 avec 6 pieces
+730 avec 7 pieces
+603 avec 8 pieces
+321 avec 9 pieces
+100 avec 10 pieces
+16 avec 11 pieces
+1 avec 12 pieces
+(total de 2863 pavages )
+
+      ==========================================         
+
+parmi lesquels on a les pavages reduits suivants :
+120 avec 7 pieces
+303 avec 8 pieces
+256 avec 9 pieces
+95 avec 10 pieces
+16 avec 11 pieces
+1 avec 12 pieces
+(total de 791 pavages reduits)
+
+      ==========================================         
+
+Donc un total de (120) pavages compacts
+--- Duree - 313.159573078 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 2 6 1
+
+      =====  DEBUT DU PROGRAMME ======      
+
+Total des pavages :
+6 avec 2 pieces
+30 avec 3 pieces
+125 avec 4 pieces
+335 avec 5 pieces
+596 avec 6 pieces
+730 avec 7 pieces
+603 avec 8 pieces
+321 avec 9 pieces
+100 avec 10 pieces
+16 avec 11 pieces
+1 avec 12 pieces
+(total de 2863 pavages )
+
+      ==========================================         
+
+parmi lesquels on a les pavages reduits suivants :
+120 avec 7 pieces
+303 avec 8 pieces
+256 avec 9 pieces
+95 avec 10 pieces
+16 avec 11 pieces
+1 avec 12 pieces
+(total de 791 pavages reduits)
+
+      ==========================================         
+
+Donc un total de (120) pavages compacts
+--- Duree - 324.492312193 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 3 4 0
+
+      =====  DEBUT DU PROGRAMME ======      
+
+J ai trouve (282) pavages compacts
+--- Duree - 1470.9216249 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
+projet_diallo_zaitit_meret_version_2$ python comput_pavages.py 3 4 1
+
+      =====  DEBUT DU PROGRAMME ======      
+
+Total des pavages :
+5 avec 2 pieces
+28 avec 3 pieces
+106 avec 4 pieces
+307 avec 5 pieces
+627 avec 6 pieces
+852 avec 7 pieces
+730 avec 8 pieces
+378 avec 9 pieces
+112 avec 10 pieces
+17 avec 11 pieces
+1 avec 12 pieces
+(total de 3163 pavages )
+
+      ==========================================         
+
+parmi lesquels on a les pavages reduits suivants :
+282 avec 6 pieces
+682 avec 7 pieces
+692 avec 8 pieces
+375 avec 9 pieces
+112 avec 10 pieces
+17 avec 11 pieces
+1 avec 12 pieces
+(total de 2161 pavages reduits)
+
+      ==========================================         
+
+Donc un total de (282) pavages compacts
+--- Duree - 1454.0910449 seconds ---
+
+      =====  FIN DU PROGRAMME ======      
+
+appuyez sur <ENTREZ> pour quitter
