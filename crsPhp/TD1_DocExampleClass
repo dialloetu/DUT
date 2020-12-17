@@ -1,0 +1,67 @@
+<?php
+/**
+ * File:  DocExampleClass.php
+ * Creation Date: 18/09/2014
+ * description:
+ *
+ * @author: canals
+ */
+
+
+/**
+ * Class DocExampleClass
+ *
+ * Classe qui ne fait rien et ne sert presque à rien
+ * sinon à servir d'exemple de documentatation.
+ *
+ * Ne pas essayer de l'utiliser dans un vrai programme, risques
+ * importants de disfonctionnement.
+ *
+ * @author g. canals gerome.canals@univ-lorraine.fr
+ * @abstract
+ */
+abstract class DocExampleClass {
+
+    public $docVar = null ;
+    public static $aStaticDocVar = "static doc var" ;
+
+    /**
+     * constructeur: __construct
+     *
+     * Groumpf, ceci est un peu étrange : un constructeur pur une classe abstraite ?
+     * Evidemment, c'est juste pour l'example
+     *
+     * @access public
+     * @return DocExampleClass un nouvel objet tout neuf et initialisé
+     * @param int $age l'age du capitaine en question
+     * @param Employee $e l'employé concerné par l'age du capitaire
+     */
+    public function __construct( $age, Employee $e) {
+
+    }
+
+    /**
+     * abstractExampleMethod
+     *
+     * méthode abstraite, pour l'exemple
+     *
+     * @abstract
+     * @access public
+     * @return Employee un employé rendu abstrait
+     * @param BigBoss $b le boss de l'employé
+     */
+    abstract public function abstractExampleMethod ( BigBoss $b);
+
+    /**
+     * exampleMethod
+     *
+     * une méthode privée pour l'example,
+     *
+     * @access private
+     * @return BigBoss le big boss de l'affaire
+     * @param Employee $e l'employé dans l'affaire
+     */
+    private function exampleMethod( Employee $e) {
+
+    }
+}
