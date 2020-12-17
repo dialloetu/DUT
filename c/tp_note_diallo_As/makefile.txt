@@ -1,0 +1,18 @@
+CC	=gcc
+OBJS	=tp_definition.o main.o
+CFLAGS	= -Wall -Werror -g -std=c99
+LDFLAGS =
+PGM	=main
+
+all: $(PGM)
+
+$(PGM):$(OBJS)
+	$(CC) main.c -o $(PGM)
+
+.c .o:
+	$(CC) $(CFLAGS) $<
+
+clean:
+	rm -f $(PGM)
+	rm -f $(OBJS)
+	rm -f *~
