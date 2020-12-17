@@ -1,0 +1,77 @@
+html{
+  background-color: white;
+}
+#clavier{
+  margin-top: 1%;
+  width:40%;
+}
+#barre{
+  background-color: rgb(110,110,255);
+  color: white;
+  width:40%;
+  height:100%;
+  text-align: left;
+  padding-top: 0px;
+  font-family: Georgia,sans-serif;
+  font-weight: 900;
+  border-radius: 10px 10px 10px 10px;
+    border: none;
+    font-size: 2em;
+
+
+}
+#traduction > *{
+  vertical-align: middle;
+}
+#boutonClavier{
+  font-family: Arial;
+  color: white;
+  background: #3498db;
+  text-decoration: none;
+  height: 5%;
+  width:5%;
+  border: none;
+  margin-top:0.5%;
+  margin-left:0.5%;
+}
+#zoneTraduction{
+  background-color:grey;
+  color: white;
+  width:40%;
+  height:100%;
+  text-align: left;
+  padding-top: 0px;
+  font-family: Georgia,sans-serif;
+  font-weight: 900;
+  border-radius: 10px 10px 10px 10px;
+  border: none;
+  font-size: 2em;
+
+}
+#traduction{
+  height: 40%;
+  margin: auto;
+}
+ #bouton{
+  font-family: Arial;
+  color: white;
+  background: #3498db;
+  text-decoration: none;
+  height: 10%;
+  width:5%;
+  border-radius: 10px 10px 10px 10px;
+  border: none;
+
+}
+
+#bouton:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+#boutonClavier:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+::placeholder{
+    color: white;
+}

@@ -1,0 +1,15 @@
+{
+	"name": "analysePhonetique",
+    "type": "project",
+    "author": "Moi meme",
+	"require":{
+		"php": ">=7.0",
+		"slim/slim": "2.*"
+	},
+
+	"autoload":{
+		"psr-4": {
+			"analysePhonetique\\" : "src/"
+		}
+	}
+}
