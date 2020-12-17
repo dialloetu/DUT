@@ -1,0 +1,17 @@
+Théorie :
+
+1)expliquer pourquoi le paragraphe est caché en examinant le code css correspondant ?
+ - le paragraphe est caché, parceque dans le CSS, l'attribut display de la classe du paragraphe est mis : NONE.
+
+2)Changez ce code pour que le paragraphe soit affiché ?
+ - effacer " display : none "
+ soit :
+    .slidingContent {
+    box-sizing: border-box;
+    height: 8em;
+    background-color: deepskyblue;
+   ** display:none; ** ( a supprimer )
+    }
+
+ 
+

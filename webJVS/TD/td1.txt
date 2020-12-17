@@ -1,0 +1,51 @@
+'use strict'
+
+/* exo 2 */
+
+/* focntion creer multiplication 
+* param entier
+* return valeurMultiplier
+*/
+
+function creerMultiplication(param){
+	return(entier) => {
+		return entier*param
+		}	
+}
+
+/* test */
+
+function creerSequence(init, step) {
+	let var_init =  init;
+     return() => { return init = var_init + step}			
+}
+
+var test_creerSequence(2, 4);
+
+
+function fibonaci(nombre1, nombre2) {
+	return () => {
+	let som = nombre1 + nombre2;
+	nombre1 = nombre2;
+	nombre2 = som;
+	return som;
+	}
+}
+
+function creerMutliModifie(var1, var2){
+	if(arguments.length() === 1){
+		return(var2) => { return var1*var2} 
+	} else if(arguments.length() === 2) {
+		return var1*var2;
+	}
+}
+
+function powerModif(var1, var2) {
+	if(arguments.length() === 1){
+		return(var1) => { 
+		var tmp = 0;
+		
+		} 
+}
+
+
