@@ -1,0 +1,10 @@
+{
+ "name": "personapp",
+ "type" : "project",
+ "autoload": {
+ "psr-4": {
+ "etuapp\\": "src/etuapp",
+ "conf\\" : "conf"
+ }
+ }
+}
